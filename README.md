@@ -29,3 +29,7 @@ I've spoken at numerous events over the years. Some of my recent talks:
 ### 🌏 Open Source
 
 I'm the original author of [ember-simple-auth](https://github.com/mainmatter/ember-simple-auth). Mainmatter is contributing to and maintaing a number of projects as well like [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust), [svelte-promise-modals](https://github.com/mainmatter/svelte-promise-modals), [qunit-dom](https://github.com/mainmatter/qunit-dom), and [sheepdog](https://github.com/mainmatter/sheepdog). Check out [all of our projects](https://github.com/orgs/mainmatter/repositories).
+
+### ☎️ Contact
+
+Find me on [LinkedIn](https://www.linkedin.com/in/marco-otte-witte), [Twitter](https://x.com/marcoow), or [Mastodon](https://mastodon.social/@marcoow).
