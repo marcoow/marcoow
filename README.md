@@ -1,10 +1,10 @@
 ## Hey 👋
 
-I'm Marco from Munich, Germany. I'm the Founder of [mainmatter](https://mainmatter.com), Host of [EuroRust](https://eurorust.eu) and Co-Host of [EmberFest](https://emberfest.eu).
+I'm Marco from Munich, Germany. I'm the Founder of [Mainmatter](https://mainmatter.com), Host of [EuroRust](https://eurorust.eu) and Co-Host of [EmberFest](https://emberfest.eu).
 
 ### Mainmatter
 
-Mainmatter is a tech consultancy helping clients to adopt technology and practices they can build on. We have a focus on #rustlang, #svelte, and #emberjs.
+Mainmatter is a tech consultancy helping clients to adopt technology and practices they can build on. We have a focus on [Rust](https://github.com/topics/rust), [Svelte](https://github.com/topics/svelte), and [Ember.js](https://github.com/topics/emberjs).
 
 ### Community
 
